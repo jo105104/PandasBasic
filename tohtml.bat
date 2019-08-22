@@ -1,0 +1,1 @@
+jupyter nbconvert --to html PandasBasic_4_DataFrame_FileIO.ipynb --TemplateExporter.exclude_input_prompt=True --TemplateExporter.exclude_output_prompt=True --output PandasBasic_4_DataFrame_FileIO.html
